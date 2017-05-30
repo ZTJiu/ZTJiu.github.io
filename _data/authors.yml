@@ -1,0 +1,14 @@
+Zhang Tianjiu:
+  name: "Zhang Tianjiu"
+  uri: "http://thewhip.com"
+  email: "hylaszhang@qq.com"
+  bio: "Stay hungry, stay foolish."
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "extravagantman"
+
+Cornelius Fiddlebone:
+  name: "Cornelius Fiddlebone"
+  email: "cornelius@thewhip.com"
+  bio: "I ordered what?"
+  avatar: "/assets/images/bio-photo.jpg"
+  twitter: "rhymeswithsackit"

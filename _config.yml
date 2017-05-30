@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Linux后台开发学习笔记"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Zhang Tianjiu"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Stay hungry, stay foolish."
+  location         : "Beijing"
+  email            : "hylaszhang@qq.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "ztjiu"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,6 +111,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -241,6 +242,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
+
